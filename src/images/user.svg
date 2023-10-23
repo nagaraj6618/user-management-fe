@@ -1,0 +1,16 @@
+<svg width="35" height="39" viewBox="0 0 35 39" fill="none" xmlns="http://www.w3.org/2000/svg">
+<rect width="35" height="39" fill="#1E1E1E"/>
+<g id="Login Page">
+<rect width="1553" height="1036" transform="translate(-887 -426)" fill="#4A85F6"/>
+<g id="Content">
+<path id="ContentFrame" d="M-62.7382 -401C-62.7382 -414.807 -51.5453 -426 -37.7382 -426H666V610H-37.7382C-51.5453 610 -62.7382 598.807 -62.7382 585V-401Z" fill="#FCFEFF"/>
+<g id="EmailInp">
+<rect id="Input" x="-30.8712" y="-13.0952" width="562.297" height="72.1372" rx="20" fill="#B0BAC3" fill-opacity="0.4"/>
+</g>
+<g id="user">
+<path id="Vector" d="M28.8608 33.8087V30.6313C28.8608 28.9459 28.2685 27.3295 27.2142 26.1378C26.1599 24.946 24.73 24.2765 23.239 24.2765H11.9953C10.5043 24.2765 9.07437 24.946 8.02007 26.1378C6.96577 27.3295 6.37347 28.9459 6.37347 30.6313V33.8087" stroke="#110F0F" stroke-linecap="round" stroke-linejoin="round"/>
+<path id="Vector_2" d="M17.6172 17.9217C20.722 17.9217 23.239 15.0765 23.239 11.5669C23.239 8.05719 20.722 5.21204 17.6172 5.21204C14.5123 5.21204 11.9953 8.05719 11.9953 11.5669C11.9953 15.0765 14.5123 17.9217 17.6172 17.9217Z" stroke="#110F0F" stroke-linecap="round" stroke-linejoin="round"/>
+</g>
+</g>
+</g>
+</svg>
